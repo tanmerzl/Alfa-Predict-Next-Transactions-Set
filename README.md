@@ -1,8 +1,11 @@
 # Multi-label предсказание категорий трат (Kaggle, Top-15)
 
 Автор: Татьяна Мерзлякова  
+
 Kaggle: tatianamerzl
+
 telegram: @tatiana_merzl
+
 email: merzliakova.ti19@physics.msu.ru
 
 
