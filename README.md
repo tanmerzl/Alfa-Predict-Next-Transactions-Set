@@ -167,8 +167,10 @@ CatBoost для каждой категории возвращает не 0/1, �
 
 ## 5. Анализ важности признаков
 
+<img width="3200" height="2000" alt="feature_importances_heatmap" src="https://github.com/user-attachments/assets/943de511-364b-4a0d-b98b-332db8fbb1cc" />
+
+
 По матрице важности признаков CatBoost можно отметить следующее:
-— <img width="3200" height="1200" alt="feature_importances_heatmap_full" src="https://github.com/user-attachments/assets/ff81a2f1-eaf2-4f30-8e61-9ead9ee93769" />
 - **Основные драйверы** почти для всех категорий 
 признаки «свежести» и интенсивности:
   `f2_days_since_last_cat`, `f5_cnt_cat_30d`, `f6_cnt_share_30d`.  
