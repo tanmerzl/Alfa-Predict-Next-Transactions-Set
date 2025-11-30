@@ -159,7 +159,8 @@ CatBoost для каждой категории возвращает не 0/1, �
 
 ## 5. Анализ важности признаков
 
-<img width="3200" height="2000" alt="feature_importances_heatmap" src="https://github.com/user-attachments/assets/943de511-364b-4a0d-b98b-332db8fbb1cc" />
+<img width="1579" height="590" alt="image" src="https://github.com/user-attachments/assets/8ffc1137-4bf0-4a83-b0c8-43015689013d" />
+
 
 
 По матрице важности признаков CatBoost можно отметить следующее:
